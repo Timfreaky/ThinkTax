@@ -1,2 +1,5 @@
 # ThinkTax
-Source code for ThinkTax (Wordpress)
+Important information about how to implement my wordpress folder:
+
+- Different extensions used:
+      - 
