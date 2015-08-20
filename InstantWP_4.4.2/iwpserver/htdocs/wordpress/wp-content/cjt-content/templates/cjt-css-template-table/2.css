@@ -1,0 +1,10 @@
+body {
+background:#FFFFF;
+font-family: verdana, arial, sans-serif;
+color: #FFFFF;
+font-size: 12px;
+margin: 0px;
+}
+table {
+    border: 1px solid black;
+}

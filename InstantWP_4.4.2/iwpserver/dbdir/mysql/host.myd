@@ -1,0 +1,21 @@
+150805 20:26:11 [ERROR] Can't open and lock privilege tables: Table 'mysql.servers' doesn't exist
+150805 20:26:11 [ERROR] Column count of mysql.db is wrong. Expected 22, found 20. Created with MySQL 50041, now running 50146. Please use mysql_upgrade to fix this error.
+150805 20:26:11 [ERROR] mysql.user has no `Event_priv` column at position 29
+150805 20:26:11 [ERROR] Cannot open mysql.event
+150805 20:26:11 [ERROR] Event Scheduler: An error occurred when initializing system tables. Disabling the Event Scheduler.
+150805 20:26:11 [Note] C:\Tools\Wordpress\InstantWP_4.4.2\iwpserver\server\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.1.46-community'  socket: ''  port: 7188  MySQL Community Server (GPL)
+150813 15:48:14 [ERROR] Can't open and lock privilege tables: Table 'mysql.servers' doesn't exist
+150813 15:48:14 [ERROR] Column count of mysql.db is wrong. Expected 22, found 20. Created with MySQL 50041, now running 50146. Please use mysql_upgrade to fix this error.
+150813 15:48:14 [ERROR] mysql.user has no `Event_priv` column at position 29
+150813 15:48:14 [ERROR] Cannot open mysql.event
+150813 15:48:14 [ERROR] Event Scheduler: An error occurred when initializing system tables. Disabling the Event Scheduler.
+150813 15:48:14 [Note] C:\Tools\Wordpress\InstantWP_4.4.2\iwpserver\server\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.1.46-community'  socket: ''  port: 7188  MySQL Community Server (GPL)
+150820 18:50:45 [ERROR] Can't open and lock privilege tables: Table 'mysql.servers' doesn't exist
+150820 18:50:45 [ERROR] Column count of mysql.db is wrong. Expected 22, found 20. Created with MySQL 50041, now running 50146. Please use mysql_upgrade to fix this error.
+150820 18:50:45 [ERROR] mysql.user has no `Event_priv` column at position 29
+150820 18:50:45 [ERROR] Cannot open mysql.event
+150820 18:50:45 [ERROR] Event Scheduler: An error occurred when initializing system tables. Disabling the Event Scheduler.
+150820 18:50:45 [Note] C:\Tools\Wordpress\InstantWP_4.4.2\iwpserver\server\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.1.46-community'  socket: ''  port: 7188  MySQL Community Server (GPL)
