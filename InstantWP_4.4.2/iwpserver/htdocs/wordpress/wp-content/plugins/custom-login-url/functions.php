@@ -18,7 +18,7 @@ function clu($url = null) {
     
     if($url === null) {
         return $clu;
-    } elseif($clu[$url]) {
+    } elseif(isset($clu[$url]) and $clu[$url]) {
         return $clu[$url];
     } else {
         return false;

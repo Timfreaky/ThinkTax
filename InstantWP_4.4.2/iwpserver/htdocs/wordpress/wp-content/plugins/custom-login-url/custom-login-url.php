@@ -3,7 +3,7 @@
 Plugin Name: Custom Login URL
 Plugin URI: http://wphelpdesk.com/custom-login-url/
 Description: Plugin allows to change: login, registration, lost password URLs to some custom URLs without modifying any files, simple and swift.
-Version: 1.0.1
+Version: 1.0.2
 Author: Simpliko
 Author URI: http://simpliko.pl
 License: GPLv2 or later
