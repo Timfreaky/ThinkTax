@@ -10,9 +10,9 @@ You will find every plugin I needed to develop the website:
 - Contact Form 7
 
 Some code has been added for every scenario:
--------------------------------------------------------------------------------------------------------------
+
 Custome Table:
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+"<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
     <body>
     <table>
@@ -41,12 +41,12 @@ Custome Table:
         </tr>
     </table>
     </body>
-</html>
+</html>"
 
 --------------------------------------------------------------------------------------------------------------------
 Custome Life Line:
 
-<script type="text/javascript" src="https://www.google.com/jsapi?autoload={'modules':[{'name':'visualization',
+"<script type="text/javascript" src="https://www.google.com/jsapi?autoload={'modules':[{'name':'visualization',
        'version':'1','packages':['timeline']}]}"></script>
 <script type="text/javascript">
 
@@ -75,7 +75,7 @@ function drawChart() {
 }
 </script>
 
-<div id="example2.1" style="height: 200px;"></div>
+<div id="example2.1" style="height: 200px;"></div>"
 -------------------------------------------------------------------------------------------------------------------
 You will find everything else you need for developing the site in its folder.
 
